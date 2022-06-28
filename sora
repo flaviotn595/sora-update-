@@ -10,7 +10,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/RT4FbYP/stories.jpg", 
+      "value": "https://raw.githubusercontent.com/flaviotn595/temafoto/main/IMG_20220628_150431_586.jpg", 
       "name": "app_background_image"
     },
     {
@@ -63,7 +63,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me//satancloud", 
+      "value": "https://t.me//Sora_net", 
       "id": 2224, 
       "name": "app_contact_link"
     },
@@ -88,7 +88,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me/satanloud", 
+      "value": "https://t.me/Sora_net", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
